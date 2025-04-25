@@ -19,8 +19,7 @@ The raw CICIDS2017 CSV files required for preprocessing can be downloaded from t
 notyashu-intrusion-detection-for-enhanced-network-security/
 ├── README.md
 ├── LICENSE
-└── CSVs/                       # NOT INCLUDED IN REPOSITORY
-                                   (Download from given Link)
+└── CSVs/                       # NOT INCLUDED IN REPOSITORY (Download from given Link)
    ├── Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
    ├── Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
    ├── Friday-WorkingHours-Morning.pcap_ISCX.csv
