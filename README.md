@@ -16,7 +16,7 @@ The raw CICIDS2017 CSV files required for preprocessing can be downloaded from t
 ## 🚀 Project Structure
 
 ```
-notyashu-intrusion-detection-for-enhanced-network-security/
+Intrusion-Detection-for-Enhanced-Network-Security/
 ├── README.md
 ├── LICENSE
 └── CSVs/                       # NOT INCLUDED IN REPOSITORY (Download from given Drive Link)
